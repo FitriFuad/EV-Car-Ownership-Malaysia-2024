@@ -1,67 +1,58 @@
-# EV Car Ownership at Malaysia for year 2024
+# EV Car Ownership in Malaysia for 2024
 
 ## Project Overview 
-This project to study the ownership of EV car among Malaysian for the year of 2024. 
+This project aims to study the ownership of EV cars among Malaysians for the year 2024.
 
-## Data Source 
+## Data Sources
+- New car registration data from JPJ (Road Transport Department)
+- EV stations license registration data from the ST (Energy Commission) website
 
-- new car registration from JPJ
-- ev stations licence registration from ST website.
+## Research Questions
+1. Is there an increasing trend in EV car ownership?
+2. What external factors are affecting new EV purchases?
+3. Does the availability of EV charger stations in certain states affect the number of new purchases?
 
-## Question to answered 
+## Limitations
+- Data is only available for the period from January 2024 to June 2024.
+- Issues with data accuracy from Rakan Niaga in state registrations.
 
-- Is there any increasing trend for the ev car ownership 
-- What is external factors affecting of the new purchase. 
-- Is availability of utilities ev charger station on certain states affected the number of new purchase.
-
-## Limitations 
-
-- Lack of time range in data availability, only available for Jan 24 - Jun 24
-
-- Problem with Rakan Niaga in states registration 
-
-# Tools
-
-- Data Cleaning & Data Scarping
-  - Excel use for cleaning any unused data
+## Tools Used
+### Data Cleaning & Data Scraping
+- Excel: Used for cleaning unused data.
   
-- Data Analysis 
- - Power Bi use for data analysis 
+### Data Analysis
+- Power BI: Used for data analysis.
 
-- Data Visualization & Reporting
- - Power Bi for generate visualization and reporting
- - GitHub for publishing and recording
- 
-# Data Retrieve & Cleaning Steps
-- JPJ Data
- - Retrieve data from data.gov.my
- - Import into Excel power query to cleaning 
+### Data Visualization & Reporting
+- Power BI: Used for generating visualizations and reports.
+- GitHub: Used for publishing and recording the project.
 
-- ST data
- - Using getData functions with web
- - Copy table into power query 
- - Data cleaning 
+## Data Retrieval & Cleaning Steps
+### JPJ Data
+1. Retrieve data from data.gov.my.
+2. Import into Excel Power Query for cleaning.
 
-# Data Analysis 
- - Import data to Power Bi
- - Set relationship from 2 different data source 
- - Set new measure using DAX to using
-   [ Show DAX function here ]
+### ST Data
+1. Use `getData` functions with the web.
+2. Copy tables into Power Query.
+3. Clean the data.
 
-# Data Visualization and reporting 
- - Creating few tables and graph to see relationship between data
-- set a graph to see the trends chargin from month to month
-- Set a graph to see the relationship between amni of station availability and car registration between states.
+## Data Analysis
+1. Import data into Power BI.
+2. Establish relationships between the two data sources.
+3. Create new measures using DAX (Data Analysis Expressions).
 
-# Finding
+## Data Visualization and Reporting
+1. Create tables and graphs to explore relationships between data.
+2. Generate graphs to track trends from month to month.
+3. Create graphs to examine the relationship between the availability of charging stations and car registrations across states.
 
-- There are increasing trends of ev car registration at Malaysia.
-- There are subtle relationship between the no of available ev charging station with number of car registered in some states.
-- increasing trends probably got affected by government incentive. ( study this)
+## Findings
+1. There is an increasing trend in EV car registrations in Malaysia.
+2. A subtle relationship exists between the number of available EV charging stations and the number of car registrations in some states.
+3. The increasing trend is likely influenced by government incentives (further study needed).
 
-
-# Suggestions 
-
-- Increase no of ev station availability.
-- Regulated the msrp price of ev car 
-- New incentive or benefits for ev user.
+## Suggestions
+1. Increase the number of EV charging stations.
+2. Regulate the MSRP price of EV cars.
+3. Introduce new incentives or benefits for EV users.
