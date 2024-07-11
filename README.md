@@ -73,5 +73,5 @@ Source : https://www.zigwheels.my/new-cars/electric
 
 ## Suggestions
 1. Regulate the MSRP price of EV cars. With the upcoming new of EV Car under Malaysia brands, hopefully that will increase the number of new EV car user in Malaysia in the middle tier income.
-2. Increase the number of EV charging stations. 
+2. Expand EV charging infrastructure: Enhancing Malaysia's EV charging network with advanced technology is crucial. This initiative will support prospective EV owners by making charging facilities more accessible nationwide.
 3. Provide EV users with additional perks or incentives. The Malaysian government's present plan is doing a terrific job of encouraging people to drive electric vehicles. We may maintain the current course of action while devising a new strategy to support the expansion of the electric vehicle (EV) market and the wider use of environmentally friendly technologies.
