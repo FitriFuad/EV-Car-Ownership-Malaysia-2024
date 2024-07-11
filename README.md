@@ -36,27 +36,30 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 ### JPJ Data
 1. Retrieve data from data.gov.my.
 2. Import into Excel Power Query for cleaning.
+   - Filtering electric type car only
+   - Filtering unused column   
 
 ### ST Data
 1. Use webscarping function (Get Data > From Web) in Excel
-2. Load html tables into Power Query.
-3. Clean the data.
+2. Load html tables into Power Query for cleaning.
+   - Spliting column to get states column
+   - Filtering unused column  
 
-## Data Analysis
+## Data Analysis Steps
 1. Import data into Power BI.
 2. Establish relationships between the two data sources.
 3. Create new measures using DAX (Data Analysis Expressions).
+   
 
 ## Data Visualization and Reporting
 
 ![dashboard](https://github.com/FitriFuad/EV-Car-Ownership-Malaysia-2024/assets/106916338/fc6655de-7494-4fb7-ac68-90e952be73d0)
-1. Create tables and graphs to explore relationships between data.
+1. Creating tables and graphs to explore relationships between data.
 2. Generate graphs to track trends from month to month.
 3. Create graphs to examine the relationship between the availability of charging stations and car registrations across states.
+4. Created slicer to filtering the data dashboard
 
    
-
-
 ## Findings
 1. There is an increasing trend in EV car registrations in Malaysia but the number quite stagnant this probably the prices of EV car. As at 2024 the cheapest EV car is Neta V with base msrp of RM 100,000. They are lacking of number EV car available under RM 100,000.
 Source : https://www.zigwheels.my/new-cars/electric
