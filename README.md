@@ -26,20 +26,20 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
   
 ### Data Analysis
 - Power BI: Used for data analysis and data model relationship.
-- Powe BI : Also used to set new DAX measure to be use in the reports.
+
 
 ### Data Visualization & Reporting
 - Power BI: Used for generating visualizations and reports.
 - GitHub: Used for publishing and recording the project.
 
 ## Data Retrieval & Cleaning Steps
-### JPJ Data
+### New car registration data from JPJ (Road Transport Department) data
 1. Retrieve data from data.gov.my.
 2. Import into Excel Power Query for cleaning.
    - Filtering electric type car only
    - Filtering unused column   
 
-### ST Data
+### EV stations license registration data from the ST (Energy Commission) data
 1. Use webscarping function (Get Data > From Web) in Excel
 2. Load html tables into Power Query for cleaning.
    - Spliting column to get states column
@@ -61,10 +61,11 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 
    
 ## Findings
-1. There is an increasing trend in EV car registrations in Malaysia but the number quite stagnant this probably the prices of EV car. As at 2024 the cheapest EV car is Neta V with base msrp of RM 100,000. They are lacking of number EV car available under RM 100,000.
-Source : https://www.zigwheels.my/new-cars/electric
+1. The trend of EV car registrations is increasing in Malaysia, but growth has slowed, likely due to the high prices of EVs. As of 2024, the cheapest EV available is the Neta V, priced at a base MSRP of RM 100,000. The limited availability of EVs priced below RM 100,000 is likely to pose challenges for middle-income consumers looking to purchase a new car.Source : https://www.zigwheels.my/new-cars/electric
 
-2. In certain states, there is a little correlation between the quantity of EV charging stations available and the number of EV car registrations.
+2. In certain states, the availability of EV charging stations strongly correlate with the number of new EV car purchased. This is illustrated by the high number of new EV car registrations in the Klang Valley area, where most EV charging stations are concentrated.
+   
+![image](https://github.com/user-attachments/assets/4fa9f07b-6bfa-4238-930c-dcfb85dec871)
 
 3. The increasing trend is likely influenced by government incentives. From the year 2022 to 2024 government of Malaysia has perfomed many incentive to facilitate EV industry growth this include :
      - Import and excise duty exemption for four years from January 1, 2022 to December 31, 2025.
