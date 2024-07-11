@@ -5,8 +5,10 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 
 ## Data Sources
 - New car registration data from JPJ (Road Transport Department)
+  - https://data.gov.my/data-catalogue/registration_transactions_car
 - EV stations license registration data from the ST (Energy Commission) website
-
+  - https://www.st.gov.my/web/general/details/966
+   
 ## Research Questions
 1. Is there an increasing trend in EV car ownership?
 2. What external factors are affecting new EV purchases?
@@ -15,13 +17,16 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 ## Limitations
 - Data is only available for the period from January 2024 to June 2024.
 - Issues with data accuracy from Rakan Niaga in state registrations.
+  - In the raw data 'Rakan Niaga'; this either indicates the state of the JPJ office the car was registered at, or that the car was registered through an official JPJ partner portal ('Rakan Niaga').
+  - The 'Rakan Niaga' was filtered when do analysis for the number of car registered by states.
 
 ## Tools Used
 ### Data Cleaning & Data Scraping
 - Excel: Used for cleaning unused data.
   
 ### Data Analysis
-- Power BI: Used for data analysis.
+- Power BI: Used for data analysis and data model relationship.
+- Powe BI : Also used to set new DAX measure to be use in the reports.
 
 ### Data Visualization & Reporting
 - Power BI: Used for generating visualizations and reports.
@@ -43,14 +48,23 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 3. Create new measures using DAX (Data Analysis Expressions).
 
 ## Data Visualization and Reporting
+
+![dashboard](https://github.com/FitriFuad/EV-Car-Ownership-Malaysia-2024/assets/106916338/fc6655de-7494-4fb7-ac68-90e952be73d0)
 1. Create tables and graphs to explore relationships between data.
 2. Generate graphs to track trends from month to month.
 3. Create graphs to examine the relationship between the availability of charging stations and car registrations across states.
 
+   
+
+
 ## Findings
-1. There is an increasing trend in EV car registrations in Malaysia.
-2. A subtle relationship exists between the number of available EV charging stations and the number of car registrations in some states.
-3. The increasing trend is likely influenced by government incentives (further study needed).
+1. There is an increasing trend in EV car registrations in Malaysia but the number quite stagnant this probably the prices of EV car 
+2. In certain states, there is a little correlation between the quantity of EV charging stations available and the number of EV car registrations.
+3. The increasing trend is likely influenced by government incentives.
+   - From the year 2022 to 2024 government of Malaysia has perfomed many incentive to facilitate EV industry growth this include :
+     - 
+   
+
 
 ## Suggestions
 1. Increase the number of EV charging stations.
