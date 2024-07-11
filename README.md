@@ -38,8 +38,8 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 2. Import into Excel Power Query for cleaning.
 
 ### ST Data
-1. Use `getData` functions with the web.
-2. Copy tables into Power Query.
+1. Use webscarping function (Get Data > From Web) in Excel
+2. Load html tables into Power Query.
 3. Clean the data.
 
 ## Data Analysis
