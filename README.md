@@ -58,15 +58,20 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 
 
 ## Findings
-1. There is an increasing trend in EV car registrations in Malaysia but the number quite stagnant this probably the prices of EV car 
+1. There is an increasing trend in EV car registrations in Malaysia but the number quite stagnant this probably the prices of EV car. As at 2024 the cheapest EV car is Neta V with base msrp of RM 100,000. They are lacking of number EV car available under RM 100,000.
+Source : https://www.zigwheels.my/new-cars/electric
+
 2. In certain states, there is a little correlation between the quantity of EV charging stations available and the number of EV car registrations.
-3. The increasing trend is likely influenced by government incentives.
-   - From the year 2022 to 2024 government of Malaysia has perfomed many incentive to facilitate EV industry growth this include :
-     - 
+
+3. The increasing trend is likely influenced by government incentives. From the year 2022 to 2024 government of Malaysia has perfomed many incentive to facilitate EV industry growth this include :
+     - Import and excise duty exemption for four years from January 1, 2022 to December 31, 2025.
+     - Road tax exemption from 2022 - 2025
+     - RM2,500 tax relief for EV charging facilities which include installation of EV chargers at home.
+       Source : https://www.mof.gov.my/portal/en/news/press-citations/full-exemption-of-import-excise-duties-sales-tax-for-electric-vehicle
    
 
 
 ## Suggestions
-1. Increase the number of EV charging stations.
-2. Regulate the MSRP price of EV cars.
-3. Introduce new incentives or benefits for EV users.
+1. Regulate the MSRP price of EV cars. With the upcoming new of EV Car under Malaysia brands, hopefully that will increase the number of new EV car user in Malaysia in the middle tier income.
+2. Increase the number of EV charging stations. 
+3. Provide EV users with additional perks or incentives. The Malaysian government's present plan is doing a terrific job of encouraging people to drive electric vehicles. We may maintain the current course of action while devising a new strategy to support the expansion of the electric vehicle (EV) market and the wider use of environmentally friendly technologies.
