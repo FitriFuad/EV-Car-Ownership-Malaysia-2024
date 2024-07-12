@@ -58,7 +58,7 @@ This project aims to study the ownership of EV cars among Malaysians for the yea
 2. Generate graphs to track trends from month to month.
 3. Create graphs to examine the relationship between the availability of charging stations and car registrations across states.
 4. Created slicer to filtering the data dashboard
-5. [Click to download the pbix](ev-car.pbix)
+5. [Click to download the pbix](https://github.com/FitriFuad/EV-Car-Ownership-Malaysia-2024/blob/b7ca03fb5d315d2b15c1d5ad4d008655585c5297/ev-car.pbix)
 
    
 ## Findings
